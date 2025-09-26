@@ -47,26 +47,4 @@ The dataset used in this project is[StudentPerformanceFactors data set] (https:/
 * Ensure the required libraries are installed by running:
 
  ```bash
-  pip install numpy pandas scikit-learn  matplotlib 
-
-
-To begin utilizing this application, follow these steps:
-
-1. Clone this repository:
-   
-   ```bash
-   
-
-2. Navigate to the cloned repository:
-
-   ```bash
-   cd 
-
-3. Run the Script:
-
-   ```bash
-   
-
-
-
-
+ 
