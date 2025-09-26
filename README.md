@@ -45,6 +45,15 @@ The dataset used in this project is[StudentPerformanceFactors data set] (https:/
 * This Python program was run and tested in VScode.
   
 * Ensure the required libraries are installed by running:
+  ```bash
+   pip install numpy pandas scikit-learn  matplotlib 
+# Usage
 
- ```bash
- 
+To begin utilizing this application, follow these steps:
+
+1. Clone this repository:
+   
+   ```bash
+   https://github.com/shaadyalii/Student-Performanc-Factors
+
+  
